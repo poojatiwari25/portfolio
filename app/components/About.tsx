@@ -25,7 +25,6 @@ export default function About() {
 
           </div>
 
-          {/* Content Section */}
           <div className="md:w-1/2 flex flex-col">
             <p className="text-lg mb-4">
               Software Engineer (SWE) specializing in Frontend development, proficient in JavaScript, React, and a variety of frontend tools. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advance in the field of frontend development.
