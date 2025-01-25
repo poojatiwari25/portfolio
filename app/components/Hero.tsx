@@ -43,13 +43,11 @@ export default function Hero() {
               </span>
             </h1>
             <p className="text-lg mb-4">
-              Passionate Software Engineer (Frontend) skilled in React JS, dedicated to crafting clean, efficient code
-              and driving innovation. Eager to collaborate with dynamic teams and advance in impactful development
-              projects.
+            Passionate Software Engineer skilled in React.js and Magento development, dedicated to crafting clean, efficient code and driving innovation. Eager to collaborate with dynamic teams and contribute to impactful development projects in both front-end and e-commerce solutions.
             </p>
             <br />
             <a
-              href="/poojatiwari.pdf" 
+              href="/poojatiwariresume.pdf" 
               download="My_CV" 
               className="px-6 py-3 bg-[#121212] text-white rounded-lg border-2 border-gradient-to-r from-purple-400 to-pink-600"
             >
